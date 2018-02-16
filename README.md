@@ -1,0 +1,2 @@
+# goingforgold
+startup
